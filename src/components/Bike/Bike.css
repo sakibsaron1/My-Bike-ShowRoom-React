@@ -1,0 +1,19 @@
+.bike-area img {
+  height: 280px;
+  width: 300px;
+}
+
+.bike-area {
+  height: 450px;
+  width: 300px;
+  border: 2px solid skyblue;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.btn-cart {
+  background-color: skyblue;
+  padding: 10px 30px;
+  border-radius: 30px;
+  color: #000;
+}

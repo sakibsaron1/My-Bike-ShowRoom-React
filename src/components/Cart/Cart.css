@@ -1,0 +1,11 @@
+.cart {
+  position: sticky;
+  top: 0;
+}
+
+.btn-text {
+  background-color: white;
+  padding: 10px 20px;
+  color: black;
+  font-weight: 800;
+}
